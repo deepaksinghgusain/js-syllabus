@@ -15,10 +15,7 @@
 
 /**
  * Variable scope 
- * 
- * closure
- * 
- * Code blocks
+ *  
  * 
  * Nested functions
  * 
@@ -71,8 +68,6 @@
  * 
  * Solution 1: a wrapper
  * Solution 2: bind
- * Partial functions
- * Going partial without context
  */
 
 /**

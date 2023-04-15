@@ -14,20 +14,6 @@
  * 
  * “Throw” operator
  * 
- * Rethrowing
- * 
  * try…catch…finally
  * 
- * Global catch
- */
-
-/**
- * 
- * Custom errors, extending Error
- * 
- * Extending Error
- * 
- * Further inheritance
- * 
- * Wrapping exceptions
  */

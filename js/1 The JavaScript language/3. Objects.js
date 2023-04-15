@@ -74,5 +74,4 @@
  * Symbols are skipped by for…in
  * Global symbols
  * Symbol.keyFor
- * System symbols
  */

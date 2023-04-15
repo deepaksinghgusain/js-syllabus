@@ -6,8 +6,16 @@
  * Hex, binary and octal numbers
  * toString(base)
  * Rounding
+ * Math.floor
+ * Math.ceil
+ * Math.round
+ * Math.trunc
+ * Math.toFixed
  * Imprecise calculations
  * Tests: isFinite and isNaN
+ * Math.random()
+ * Math.pow(n, power)
+ * Math.max(a, b, c...) and Math.min(a, b, c...)
  * parseInt and parseFloat
  */
 
@@ -19,12 +27,27 @@
  * String length
  * Accessing characters
  * Strings are immutable
+ * 
  * Changing the case
- * Searching for a substring
+ * toUpperCase
+ * toLowerCase
+ * 
+ * Searching for a 
+ * substring
+ * indexOf
+ * lastIndexOf
+ * 
  * includes, startsWith, endsWith
+ * 
  * Getting a substring
+ * slice
+ * substring
+ * substr
+ * 
  * Comparing strings
- * Correct comparisons
+ * codePointAt
+ * fromCodePoint
+ * 
  */
 
 /**
@@ -71,11 +94,8 @@
 /**
  * 
  * Iterables
- * Symbol.iterator
  * String is iterable
- * Calling an iterator explicitly
  * Iterables and array-likes
- * Array.from
  */
 
 /**
@@ -96,9 +116,6 @@
  * map.values() – returns an iterable for values,
  * map.entries() – returns an iterable for entries [key, value], it’s used by default in for..of.
  * 
- * Object.entries: Map from Object
- * 
- * Object.fromEntries: Object from Map
  * 
  * Set
  * new Set(iterable) – creates the set, and if an iterable object is provided (usually an array), copies values from it into the set.
@@ -173,7 +190,7 @@
  */
 
 /**
- * JSON methods, toJSON
+ * JSON methods
  * 
  * JSON.stringify
  * 
